@@ -1,0 +1,3 @@
+insert into tb_Imovel(rua,numero, bairro, cidade, estado, status)values('Rua xv de novembro','35','Centro','Blumenau','Santa Catarina');
+insert into tb_Imovel(rua,numero, bairro, cidade, estado, status)values('Rua 2 de novembro','530','Itopava','Blumenau','Santa Catarina');
+insert into tb_Imovel(rua,numero, bairro, cidade, estado, status)values('Rua Marechal Deodoro','1235','Centro','União da Vitoria','Paraná');
